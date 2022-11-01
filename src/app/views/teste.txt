@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 arquivo vazio
+=======
+arquivo vazio
+>>>>>>> baf138b2aeda93145fd9c0ef877157f691cc1b62
