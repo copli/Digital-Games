@@ -1,0 +1,42 @@
+header {
+    background-color: #1E1C21;
+    height: 80px;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+/* .container-grid {
+    width: 1200px;
+    margin: 0 auto;
+} */
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.menu {
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#barras {
+    display: none;
+}
+
+.icone-menu {
+    height: 40px;
+}
